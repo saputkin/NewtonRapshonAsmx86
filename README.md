@@ -1,5 +1,5 @@
 # NewtonRapshonAsmx86
-An Assembly x86 program to find a single root of a polynomial of complex coefficients  
+An Assembly x86 program to find a single root of a polynomial of complex coefficients using Newton-Raphson method
 
 The program reads from the sdtin  
 sample input:  
